@@ -19,8 +19,7 @@
 Here are some ideas to get you started:
 -->
 <p align="center">
-🔭 I'm Currently working on Deep Reinforcement Learning 🌱 Learning Go 👯 And looking to collaborate on
-    - iOS App Development,Flutter X-platform and CUDA Runtime projects
+    I'm Currently working on Deep Reinforcement Learning | Learning Go | And looking to collaborate on iOS App Development,Flutter X-platform and CUDA Runtime projects
  </p>
 
 <!--
