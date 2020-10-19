@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <p align="center">
   <img width="390px" src="https://github-readme-stats.vercel.app/api?username=ayush5harma&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=contribs,issues&hide_border=1 &hide_title=1" />
 </p>
+-->
