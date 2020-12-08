@@ -8,19 +8,15 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  &nbsp&nbsp&nbsp&nbsp
 <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>  &nbsp&nbsp&nbsp&nbsp&nbsp
 <img src="https://user-images.githubusercontent.com/47772616/96414851-48c8ee00-120b-11eb-9942-8b2895703ca3.png" alt="dart" width="40" height="40"/>  &nbsp&nbsp&nbsp&nbsp&nbsp
-
 </p>
 
-<h1 align="center">  </h1>
+<!-- <h1 align="center">  </h1> -->
 
 <!--
 **ayush5harma/ayush5harma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--
 Here are some ideas to get you started:
--->
-<p align="center">
-   
- </p>
+
 
 <!--
 - 🤔 I’m looking for help with 
